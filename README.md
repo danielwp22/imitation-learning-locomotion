@@ -51,4 +51,3 @@ It is based on the [CS285 Homework 1 assignment](https://rail.eecs.berkeley.edu/
 ## 🔗 References
 - [CS285 Deep RL Course – Homework 1](https://rail.eecs.berkeley.edu/deeprlcourse/deeprlcourse/static/homeworks/hw1.pdf)  
 - [DAgger: Dataset Aggregation](https://arxiv.org/abs/1011.0686)  
-
