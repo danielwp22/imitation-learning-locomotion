@@ -30,7 +30,7 @@ It is based on the [CS285 Homework 1 assignment](https://rail.eecs.berkeley.edu/
 - **Behavioral Cloning:** The walker struggles to balance and **falls over**.  
   ![Walker falling](https://i.imgur.com/kG9AQ5i.gif)  
 - **DAgger:** The walker achieves a surprisingly stable and **cartoonish running gait**.  
-  ![Walker running](https://i.imgur.com/JT0nkkm.gif)  
+  ![Walker running](https://i.imgur.com/LRIVhXL.gif)  
 
 ---
 
