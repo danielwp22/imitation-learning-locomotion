@@ -20,15 +20,15 @@ It is based on the [CS285 Homework 1 assignment](https://rail.eecs.berkeley.edu/
 
 ### 🐜 Ant-v4
 - **Behavioral Cloning:** The agent initially learns a **crawling gait**.  
-  ![Ant crawling gait](https://i.imgur.com/Y7ZbNum.gif)  
+  ![Ant crawling gait](https://i.imgur.com/6awUScd.gif)  
 - **DAgger:** With aggregated corrections, the agent learns a much more natural **bounding gait**.  
-  ![Ant bounding gait](https://i.imgur.com/C7f9RjC.gif)  
+  ![Ant bounding gait](https://i.imgur.com/PcRdJo4.gif)  
 
 ---
 
 ### 🚶 2D Walker
 - **Behavioral Cloning:** The walker struggles to balance and **falls over**.  
-  ![Walker falling](https://i.imgur.com/kG9AQ5i.gif)  
+  ![Walker falling](https://i.imgur.com/mw5ePUm.gif)  
 - **DAgger:** The walker achieves a surprisingly stable and **cartoonish running gait**.  
   ![Walker running](https://i.imgur.com/LRIVhXL.gif)  
 
